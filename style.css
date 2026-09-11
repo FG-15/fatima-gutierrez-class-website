@@ -1,0 +1,28 @@
+
+@font-face {
+    font-family: 'FUWAFUWAFont';
+    src: url(Fonts/FUWAFUWAFont.ttf);
+}
+
+body{background-color: rgb(65, 44, 56); 
+font-family: 'FUWAFUWAFont', sans-serif;
+margin: 10px;
+line-height: 25px;}
+h1 { color: pink;
+font-size:40px;
+font-weight: bolder;
+text-align: center;}
+h2 { color: blueviolet;
+font-size:large;
+font-weight: bold;}
+p { color:rgb(83, 188, 188);
+font-weight: bold;}
+a { color:blueviolet;
+font-weight: bold;}
+img { width: 500px;
+border: 90px blueviolet;
+border-radius: 25px;}
+li { color:rgb(83, 188, 188);
+font-weight: bold;}
+button { color: palevioletred;
+font-weight: bold;}
