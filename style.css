@@ -20,9 +20,36 @@ font-weight: bold;}
 a { color:blueviolet;
 font-weight: bold;}
 img { width: 500px;
-border: 90px blueviolet;
+border: 20px double pink;
 border-radius: 25px;}
 li { color:rgb(83, 188, 188);
-font-weight: bold;}
+font-weight: bold;
+margin: 20px;}
 button { color: palevioletred;
 font-weight: bold;}
+
+
+#about {background-color: black; 
+border: 2px solid palevioletred;
+padding: 20px;}
+#highlight {background-color: plum; 
+border: 2px solid purple;
+padding: 15px;
+width: 150px;
+border-style: double;}
+#subhighlight {background-color:plum; 
+border: 2px dotted purple;
+padding: 5px;
+width: 150px;}
+
+.highlight {background-color:deeppink;
+color: blueviolet;
+padding: 10px;
+width: 150px;
+border-style: double;}
+
+.subhighlight {background-color: black;
+color: grey;
+padding: 10px;
+width: 200px;
+border-style: dotted;}
